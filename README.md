@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 GENERAL DESCRIPTION:
-This Python script creates the rovibrational spectrum of 12CO assuming the geometry of a rotating disk (i.e. a protoplanetary disk). 
+This Python script creates the rovibrational emission spectrum of 12CO assuming the geometry of a rotating disk (i.e. a protoplanetary disk). 
 
 ___________________________________________________________________________________________________________________________________________________________________
 DATA DESCRIPTION:
