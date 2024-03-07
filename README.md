@@ -32,7 +32,9 @@ RUNNING THE CODE:
  
 2) In a terminal, cd into the directory that now contains the script and the data
 
-3) Run the script by typing the following into the command line:
+3) Change the directory paths on line 116 and 159 to point towards the local directory on your machine that contains the .csv files  
+
+4) Run the script by typing the following into the command line:
 
            python3.8 rovibEmSpec_JWK.py
 ___________________________________________________________________________________________________________________________________________________________________
