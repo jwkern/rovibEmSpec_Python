@@ -9,7 +9,7 @@ This Python script creates the ro-vibrational emission spectrum of 12CO v=1-0 as
 
 ___________________________________________________________________________________________________________________________________________________________________
 DATA DESCRIPTION:
-The data for this synthetic spectrum are self-contained arrays. 
+The data for this synthetic spectrum are self-contained arrays. The molecular properties were downloaded prior from HiTRAN, and are contained in the two .csv files. 
 
 ___________________________________________________________________________________________________________________________________________________________________
 CODE DESCRIPTION:
@@ -28,9 +28,9 @@ The synthetic spectrum is output to a .csv file.
 
 ___________________________________________________________________________________________________________________________________________________________________
 RUNNING THE CODE:
-1) Download the python script (rovibEmSpec_JWK.py)
+1) Download the python script (rovibEmSpec_JWK.py) and the two .csv files (Partfun_12CO16O.csv, 12CO_v10.csv)
  
-2) In a terminal, cd into the directory that now contains the script
+2) In a terminal, cd into the directory that now contains the script and the data
 
 3) Run the script by typing the following into the command line:
 
